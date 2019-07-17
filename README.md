@@ -1,3 +1,2 @@
-# Varied-Filter-Size-CNN-Design
-## UPDATES COMMING SOON!
-* code is on my computer that got sent in for hard drive failure and is currently being extracted!
+# Long-Short-Term-Memory
+A simple demo will be posted here before the end of July 2019.
